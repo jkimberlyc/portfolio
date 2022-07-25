@@ -11,7 +11,7 @@
 body {
   background-image: url("../images/stars-bg.gif") !important;
   background-position: center;
-  background-size: 60% 60%;
+  background-size: cover;
 }
 
 .hero-wrap-works {
